@@ -2,20 +2,20 @@
   "name": "filmoteka-teamproject",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://d3monw1ngs.github.io/filmoteka-teamproject",
+  "homepage": "https://daisymilan.github.io/js-filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-teamproject/"
+    "build": "parcel build src/*.html --public-url /js-filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/d3monw1ngs/filmoteka-teamproject.git"
+    "url": "git+https://https://github.com/daisymilan/js-filmoteka.git"
   },
   "keywords": [],
-  "author": "Marie Tess Awas <tezzielumsit87@gmail.com>",
+  "author": "Daisy Milan <daisymilan3@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/d3monw1ngs/filmoteka-teamproject/issues"
+    "url": "https://https://github.com/daisymilan/js-filmotekaissues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
