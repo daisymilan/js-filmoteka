@@ -1,4 +1,6 @@
-# js-filmoteka by Daisy Milan
+# js-filmoteka JS Team Project
+
+Copy of Daisy Milan
 
 Movie lists and description
 
